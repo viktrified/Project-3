@@ -1,0 +1,36 @@
+h1 {
+    color: orange;
+    background-color: slateblue;
+    font-size: 40px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+}
+
+p {
+    color: aqua;
+    text-align: center;
+    line-height: 20px;
+    letter-spacing: 4px;
+    column-count: 2;
+    column-gap: 60px;
+}
+
+ul {
+    border-bottom: 4px dotted rgba(0, 0, 255, 0.021);
+}
+
+li {
+    list-style-type: disc;
+    text-shadow: 3px 3px lightcoral;
+}
+
+div { 
+    display: block;
+}
+
+span {
+    display: inline;
+    margin: 20px;
+    padding: 30px;
+}
